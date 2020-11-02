@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">576664261322-600pifo0d6ice6ktci3bpr61h6sj1ns1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ichat-596d8.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">576664261322</string>
+    <string name="google_api_key" translatable="false">AIzaSyDQjOqXY5Mib4L3Hj4VvxnA5N5mnCPyD1A</string>
+    <string name="google_app_id" translatable="false">1:576664261322:android:df6bfcf4cc7fc1602fda33</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDQjOqXY5Mib4L3Hj4VvxnA5N5mnCPyD1A</string>
+    <string name="google_storage_bucket" translatable="false">ichat-596d8.appspot.com</string>
+    <string name="project_id" translatable="false">ichat-596d8</string>
+</resources>
