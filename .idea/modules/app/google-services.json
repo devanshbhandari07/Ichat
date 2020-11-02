@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576664261322",
+    "firebase_url": "https://ichat-596d8.firebaseio.com",
+    "project_id": "ichat-596d8",
+    "storage_bucket": "ichat-596d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576664261322:android:df6bfcf4cc7fc1602fda33",
+        "android_client_info": {
+          "package_name": "com.dnagames.ichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576664261322-g0fahlskvr6sg1evjpfap741l2j2sb7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dnagames.ichat",
+            "certificate_hash": "d42ef682c0dc6c390815d20ac6b9d3c10269a4ea"
+          }
+        },
+        {
+          "client_id": "576664261322-600pifo0d6ice6ktci3bpr61h6sj1ns1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQjOqXY5Mib4L3Hj4VvxnA5N5mnCPyD1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576664261322-600pifo0d6ice6ktci3bpr61h6sj1ns1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
